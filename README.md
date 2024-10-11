@@ -33,7 +33,7 @@ pip install pandas
 2. Run the script using Python:
 
 ```bash
-python your_script_name.py
+python revised_split_and_clean.py
 ```
 
 3. Follow the prompts to enter:
