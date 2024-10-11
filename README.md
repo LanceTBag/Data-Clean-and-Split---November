@@ -63,4 +63,4 @@ The script logs key actions and errors to the console. You can modify the loggin
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is the property of Team November of Protexxa (Barbados) Inc.
